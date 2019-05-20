@@ -541,10 +541,10 @@ class Store extends Component {
                         <MDBBtn rounded color="light" className="storeButton" href="store-page=1">←</MDBBtn>
                         <MDBBtn rounded color="light" className="storeButton" href="store-page=1">1</MDBBtn>
                         <MDBBtn active disabled rounded color="light" className="storeButton" href="store-page=2">2</MDBBtn>
-                        <MDBBtn rounded color="light" className="storeButton">3</MDBBtn>
+                        <MDBBtn rounded color="light" className="storeButton" href="store-page=3">3</MDBBtn>
                         <MDBBtn rounded color="light" className="storeButton">4</MDBBtn>
                         <MDBBtn rounded color="light" className="storeButton">5</MDBBtn>
-                        <MDBBtn rounded color="light" className="storeButton">→</MDBBtn>
+                        <MDBBtn rounded color="light" className="storeButton" href="store-page=3">→</MDBBtn>
                     </Col>
                 </Row>
             </Container>
