@@ -1,0 +1,24 @@
+.App {
+    background-color: #323232;
+    text-align: center;
+}
+
+.storeButton {
+    font-size: 30;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.storeTitle {
+    color: white;
+    margin-left: 3rem;
+    text-align: left;
+}
+
+.verticalSpaceCard {
+    margin-top: 40;
+}
+
+.title {
+    color: white;
+}
