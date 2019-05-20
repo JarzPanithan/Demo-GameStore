@@ -10,6 +10,8 @@ import Register from '../src/components/Routes/Register';
 import Store1 from './components/Routes/Stores/Store1';
 import Store2 from './components/Routes/Stores/Store2';
 import Store3 from './components/Routes/Stores/Store3';
+import Store4 from './components/Routes/Stores/Store4';
+import Store5 from './components/Routes/Stores/Store5';
 
 class AnotherPage extends Component {
     render(){
@@ -20,6 +22,8 @@ class AnotherPage extends Component {
                 <Route path="store-page=1" component={Store1}/>
                 <Route path="store-page=2" component={Store2}/>
                 <Route path="store-page=3" component={Store3}/>
+                <Route path="store-page=4" component={Store4}/>
+                <Route path="store-page=5" component={Store5}/>
             </Router>
         );
     }
