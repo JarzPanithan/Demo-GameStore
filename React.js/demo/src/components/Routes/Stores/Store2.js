@@ -335,7 +335,7 @@ class Store extends Component {
                                     <Col>
                                         <Row>
                                             <h5 style={{color: "red", marginRight: 5}}><Badge color="success" style={{marginRight: 5}}>-75%</Badge><b><strike>$49.99</strike></b></h5>
-                                            <h5 style={{color: "green", marginRight: 5}}><b>$12.49</b></h5>
+                                            <h5 style={{color: "green"}}><b>$12.49</b></h5>
                                         </Row>
                                     </Col>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
@@ -350,7 +350,7 @@ class Store extends Component {
                                     <Col>
                                         <Row>
                                             <h5 style={{color: "red", marginRight: 5}}><Badge color="success" style={{marginRight: 5}}>-30%</Badge><b><strike>$61.15</strike></b></h5>
-                                            <h5 style={{color: "green", marginRight: 5}}><b>$42.80</b></h5>
+                                            <h5 style={{color: "green"}}><b>$42.80</b></h5>
                                         </Row>
                                     </Col>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
@@ -363,84 +363,45 @@ class Store extends Component {
                     <Row style={{marginTop: 40}}>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/5265a7438b6b627fccede8eb9b420af3e58c3b3e.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e35ed7f95f7fe331df3abce2221d4082"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Shadow Warriors 2</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$49.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/955975216e9dd9c6891806798e3bbfca184f3eaa.jpg?auto=compress,format&fit=crop&h=353&w=616&s=57c8f32a439faa456ebe7312c56a02b4"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>For Honor</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$39.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/4817793a4611f48dae98d819c0940f0047956291.jpg?auto=compress,format&fit=crop&h=353&w=616&s=723c6d4386846dc6dfc5fba499e34ca0"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Call of Duty®: Infinite Warfare</Card.Title>
+                                    <Col>
+                                        <Row>
+                                            <h5 style={{color: "red", marginRight: 5}}><Badge color="success" style={{marginRight: 5}}>-60%</Badge><b><strike>$59.99</strike></b></h5>
+                                            <h5 style={{color: "green"}}><b>$23.99</b></h5>
+                                        </Row>
+                                    </Col>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/b81ecd9d5ab390b1fd8d2c11d1513a70df93aca1.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0d1328dfa48ef7bf29b5a612451aeba2"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
-                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
-                                </Card.Body>
-                            </Card>
-                        </Col>
-                    </Row>
-                </Container>
-                <Container>
-                    <Row style={{marginTop: 40}}>
-                    <Col>
-                        <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
-                                <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
-                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
-                                </Card.Body>
-                            </Card>
-                        </Col>
-                    <Col>
-                        <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
-                                <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
-                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
-                                </Card.Body>
-                            </Card>
-                        </Col>
-                    <Col>
-                        <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
-                                <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
-                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
-                                </Card.Body>
-                            </Card>
-                        </Col>
-                    <Col>
-                        <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
-                                <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Planet Coaster</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$59.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
@@ -451,40 +412,40 @@ class Store extends Component {
                     <Row style={{marginTop: 40}}>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/c9f88b5b77df50f4d1428d44e130138ee7b22d69.jpg?auto=compress,format&fit=crop&h=353&w=616&s=29c789aaa8d005bed23b5480468c50e9"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Stardew Valley</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$23.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/e943c44cd7450c91ee9a4af3ba81333bb080e6a3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=1b6694c3771d36f8ff9d5de282a942ea"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>XCOM® 2</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$59.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/0ae5beab7bab769a8c9a3bb2a0d46453a6a2c852.jpg?auto=compress,format&fit=crop&h=353&w=616&s=4d9a704ebd826719bf29ade9e30b510c"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>XCCOM: Enemy Unknown</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$29.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/dd2b96006d094f68b1127e330d0aa3dbc0532ac5.jpg?auto=compress,format&fit=crop&h=353&w=616&s=13e1651f029d39abb5e5ee6708b165a3"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>BATTLETECH - Digital Deluxe Content</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$12.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
@@ -495,40 +456,94 @@ class Store extends Component {
                     <Row style={{marginTop: 40}}>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/2d030830460400b88d5337470fc99833e474dd76.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8fd3958694f432fa9ae9186535187f8b"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Assassin's Creed Syndicate</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$59.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/84acea4f0b20eb65ddde3168280c1fdc5a2211d2.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e00273cf74779765e576efcc80eb8b96"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Torchlight 2</Card.Title>
+                                    <Col>
+                                        <Row>
+                                            <h5 style={{color: "red", marginRight: 5}}><Badge color="success" style={{marginRight: 5}}>-50%</Badge><b><strike>$14.99</strike></b></h5>
+                                            <h5 style={{color: "green"}}><b>$7.49</b></h5>
+                                        </Row>
+                                    </Col>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/83b13658f32fedd861793cb756f265895c63ec92.jpg?auto=compress,format&fit=crop&h=353&w=616&s=77db2bed93ba9bf04a052365c6f21ffc"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Vampyr</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$49.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
                         </Col>
                     <Col>
                         <Card style={{width: "15rem", height: "17.5rem"}}>
-                            <Card.Img variant="top" src=""/>
+                            <Card.Img variant="top" src="https://hb.imgix.net/df62a4af2d69fc59a6aab9285f1f44fc301b92f0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=42a6c2b1e1f274df8475c34473aee9c8"/>
                                 <Card.Body>
-                                    <Card.Title style={{fontSize: 13.5}}>...</Card.Title>
-                                    <h5 style={{color: "red", marginRight: 5}}><b>...</b></h5>
+                                    <Card.Title style={{fontSize: 13.5}}>Elite Dangerous</Card.Title>
+                                    <Col>
+                                        <Row>
+                                            <h5 style={{color: "red", marginRight: 5}}><Badge color="success" style={{marginRight: 5}}>-55%</Badge><b><strike>$29.99</strike></b></h5>
+                                            <h5 style={{color: "green"}}><b>$29.99</b></h5>
+                                        </Row>
+                                    </Col>
+                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
+                                </Card.Body>
+                            </Card>
+                        </Col>
+                    </Row>
+                </Container>
+                <Container>
+                    <Row style={{marginTop: 40}}>
+                    <Col>
+                        <Card style={{width: "15rem", height: "17.5rem"}}>
+                            <Card.Img variant="top" src="https://hb.imgix.net/dc9c0c19dac282ff21a8fa68175a82f740fd5007.jpg?auto=compress,format&fit=crop&h=353&w=616&s=71063e2a04f36b690522113f9408dc22"/>
+                                <Card.Body>
+                                    <Card.Title style={{fontSize: 13.5}}>Warhammer: Vermintide 2</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$29.99</b></h5>
+                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
+                                </Card.Body>
+                            </Card>
+                        </Col>
+                    <Col>
+                        <Card style={{width: "15rem", height: "17.5rem"}}>
+                            <Card.Img variant="top" src="https://hb.imgix.net/5cff89342e7f4521dc3f5bc5d0455eb6a52a5370.jpg?auto=compress,format&fit=crop&h=353&w=616&s=732d41bb71f22a0e0130784868344dc4"/>
+                                <Card.Body>
+                                    <Card.Title style={{fontSize: 13.5}}>The Witcher® 3: Wild Hunt GAME OF THE YEAR EDITION</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$59.99</b></h5>
+                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
+                                </Card.Body>
+                            </Card>
+                        </Col>
+                    <Col>
+                        <Card style={{width: "15rem", height: "17.5rem"}}>
+                            <Card.Img variant="top" src="https://hb.imgix.net/d9f94c2f6b2347dcc7872a7348c8d30f95023a88.jpg?auto=compress,format&fit=crop&h=353&w=616&s=ea58b4a4a52c7b64cc96f214b5fcfcea"/>
+                                <Card.Body>
+                                    <Card.Title style={{fontSize: 13.5}}>Watch_Dogs™ Complete Edition</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$49.99</b></h5>
+                                    <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
+                                </Card.Body>
+                            </Card>
+                        </Col>
+                    <Col>
+                        <Card style={{width: "15rem", height: "17.5rem"}}>
+                            <Card.Img variant="top" src="https://hb.imgix.net/47cac6de93212af59a7d2259c6016af1ddb9f25b.jpg?auto=compress,format&fit=crop&h=353&w=616&s=46affb7896de9b164353dce58c6662b7"/>
+                                <Card.Body>
+                                    <Card.Title style={{fontSize: 13.5}}>Assassin's Creed IV: Black Flag</Card.Title>
+                                    <h5 style={{color: "red", marginRight: 5}}><b>$19.99</b></h5>
                                     <Button variant="dark" size="sm"><MDBIcon icon="cart-arrow-down"/> Add to Basket</Button>
                                 </Card.Body>
                             </Card>
